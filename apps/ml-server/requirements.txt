@@ -1,0 +1,37 @@
+# Updated requirements for Python 3.12+
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+python-dotenv
+matplotlib
+seaborn
+joblib
+
+# YouTube API and data extraction
+google-api-python-client
+youtube-transcript-api
+yt-dlp
+
+# Audio processing and transcription
+openai-whisper
+torch
+torchaudio
+
+# Google AI services
+google-generativeai
+google-auth
+
+# Additional utilities
+requests
+urllib3
+tqdm
+regex
+six
+
+# Audio processing dependencies
+ffmpeg-python
+librosa
+soundfile
+umap

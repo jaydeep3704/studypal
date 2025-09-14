@@ -1,0 +1,19 @@
+{
+  "classes": [
+    "Advanced",
+    "Beginner",
+    "Intermediate"
+  ],
+  "feature_names": [
+    "combined_text",
+    "duration_minutes",
+    "keyword_count",
+    "title_length",
+    "description_length",
+    "views_per_minute",
+    "engagement_ratio",
+    "comment_sentiment"
+  ],
+  "model_type": "SVM",
+  "timestamp": "2025-09-14T23:25:04.502132"
+}
