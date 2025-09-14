@@ -35,3 +35,8 @@ ffmpeg-python
 librosa
 soundfile
 umap
+
+
+flask
+flask-cors
+gunicorn
